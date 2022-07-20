@@ -1,0 +1,1 @@
+ReactDOM.render(<p>This is React working in one line.</p>, document.getElementById("root"))
